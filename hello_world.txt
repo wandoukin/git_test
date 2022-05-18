@@ -1,1 +1,2 @@
 Hello, World! from wandou!
+Learning to code with The Odin Project!
